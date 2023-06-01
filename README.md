@@ -8,7 +8,7 @@ QbTrackerUtil —— qbitorrent
 
 TrTrackerUtil —— transmission
 
-注意：不要输入中文！WIN版为**hdtime**专用
+注意：不要输入中文！winForm版为**hdtime**专用
 
 # LM-BatchEditTracker-go
 LM-BatchEditTracker-go  命令行工具
@@ -26,13 +26,13 @@ LM-BatchEditTracker-go  命令行工具
 ## 参数说明：
 -client 客户端类型，仅支持tr、qb
 
--addr 地址 tr仅支持默认9091端口,填写ip即可  qb填写全路径如：http://127.0.0.1:8080 不支持https,同时请关闭webui设置中所有安全中选项
+-addr 地址 tr仅支持默认9091端口,填写ip即可  qb填写全路径如：http://127.0.0.1:8080 不支持https,同时请关闭webui设置中所有安全选项
 
 -username web端登录帐号
 
 -password web端登录密码
 
--category 客户端分类名,仅qb有效
+-category 客户端分类名,仅qb有效, tr随便填
 
 -old 旧tracker服务器,填写网站地址即可,如:https://tracker.hdtime.org/
 
