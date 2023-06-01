@@ -19,7 +19,7 @@ LM-BatchEditTracker-go-linux-amd64
 
 ## 运行：
 ### TR:
-./LM-BatchEditTracker-go-linux-amd64 -client=tr -addr=127.0.0.1 -username=admin -password=admin -category=hdtime -old=https://tracker.hdtime.org/ -new=https://tracker.hdtime.org/announce.php?passkey=d1cac9
+./LM-BatchEditTracker-go-linux-amd64 -client=tr -addr=127.0.0.1 -username=admin -password=admin -category=hdtime -old=https://tracker.hdtime.org/ -new=https://tracker.hdtime.org/announce.php?passkey=********
 ### QB:
 ./LM-BatchEditTracker-go-linux-amd64 -client=qb -addr=http://127.0.0.1:8080 -username=admin -password=admin -category=hdtime -old=https://tracker.hdtime.org/announce.php -new=https://tracker.hdtime.org/announce.php?passkey=********
 
