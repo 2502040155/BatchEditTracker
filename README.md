@@ -10,7 +10,7 @@ TrTrackerUtil —— transmission
 
 注意：不要输入中文！winForm版为**hdtime**专用
 
-# LM-BatchEditTracker-go
+# LM-BatchEditTracker-go   BUG 不要用
 LM-BatchEditTracker-go  命令行工具
 
 支持qbitorrent4+ transmission3+ transmission4+ 其他版本未做测试，可自行尝试
