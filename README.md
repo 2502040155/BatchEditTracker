@@ -1,8 +1,8 @@
 # BatchEditTracker
 批量修改qbittorrent、transmission tracker工具
 
-# win版
-群友shabby提供，**hdtime**种子authkey转passkey专用
+# winForm版
+群友shabby提供，**hdtime**种子authkey转passkey专用,窗口程序，只需填写相关参数即可
 
 QbTrackerUtil —— qbitorrent 
 
@@ -10,7 +10,7 @@ TrTrackerUtil —— transmission
 
 注意：不要输入中文！WIN版为**hdtime**专用
 
-# linux版
+# LM-BatchEditTracker-go
 LM-BatchEditTracker-go-linux-amd64
 
 支持qbitorrent4+ transmission3+ transmission4+ 其他版本未做测试，可自行尝试
