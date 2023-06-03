@@ -13,11 +13,13 @@
 ## 参数说明：
 -client 客户端类型，仅支持tr、qb
 
--addr 地址 tr仅支持默认9091端口,填写ip即可  qb填写全路径如：http://127.0.0.1:8080 不支持https,同时请关闭webui设置中所有安全中选项
+-addr WEBUI地址 tr支持IP或地址填写如：http://127.0.0.1:9091/  qb填写全路径如：http://127.0.0.1:8080 不支持https,同时请关闭webui设置中所有安全中选项
 
 -username web端登录帐号
 
 -password web端登录密码
+
+-timeout 仅tr有效,可选参数
 
 -category 客户端分类名,仅qb有效
 
