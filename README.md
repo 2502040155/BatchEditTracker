@@ -32,9 +32,11 @@ LM-BatchEditTracker-go  命令行工具
 
 -password web端登录密码
 
--timeout 仅tr有效,可选参数
+-timeout 仅tr有效（可选）
 
--category 客户端分类名,仅qb有效
+-category 客户端分类名,仅qb有效（可选）
+
+-tag 客户端标签,仅qb有效（可选）
 
 -old 旧tracker服务器,填写网站地址即可,如:https://tracker.hdtime.org/
 
